@@ -3,7 +3,7 @@
 
 
 <br/>
-<img src="media/yosh-demo.gif" width="960" height="540"/>
+<img src="media/yosh-demo.gif" width="864" height="486"/>
 <br/>
 
 
@@ -51,7 +51,7 @@ This Project is a Unix Shell written in C. The design utilizes multiple System C
 ## Project Demo
 
 <br/>
-<img src="media/yosh-demo.gif" width="960" height="540"/>
+<img src="media/yosh-demo.gif" width="864" height="486"/>
 
 <!-- }}} -->
 
